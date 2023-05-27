@@ -1,0 +1,86 @@
+{
+  "posts": [
+    {
+      "firstname": "Kalimuthu",
+      "lastname": "M",
+      "phonenumber": "+916382523543",
+      "city": "VadakkuVallioor",
+      "id": 1
+    },
+    {
+      "firstname": "Jeyaraj",
+      "lastname": "Joseph",
+      "phonenumber": "+911235679901",
+      "city": "Vadakara",
+      "id": 6
+    },
+    {
+      "firstname": "Pappu",
+      "lastname": "mol",
+      "phonenumber": "+911234567890",
+      "city": "Kalakkad",
+      "id": 7
+    },
+    {
+      "firstname": "Kothikan",
+      "lastname": "Amogavarshan",
+      "phonenumber": "+913456789012",
+      "city": "Karnataka",
+      "id": 8
+    },
+    {
+      "firstname": "Samuel",
+      "lastname": "Stanson",
+      "phonenumber": "+91944667890",
+      "city": "Kalandapanai",
+      "id": 9
+    }
+  ],
+  "signup": [
+    {
+      "name": "afrudeen",
+      "email": "afrudeenhasina15301@gmail.com",
+      "password": "psyc2s8d5dnV2Na",
+      "id": 1
+    },
+    {
+      "name": "Raju",
+      "email": "raju123@gmail.com",
+      "password": "raju123RAJU",
+      "id": 2
+    },
+    {
+      "name": "Roshan",
+      "email": "roshan123@gmail.com",
+      "password": "roshan123",
+      "id": 3
+    },
+    {
+      "name": "afrudeensh",
+      "email": "afrudeenhasina15301@gmail.com",
+      "password": "AFRUafru15301#",
+      "id": 4
+    },
+    {
+      "name": "Sita Ram",
+      "email": "siyakeram@gmail.com",
+      "password": "siyakeram",
+      "id": 5
+    },
+    {
+      "name": "thomas",
+      "email": "thomas@gmail.com",
+      "password": "tovinothomas",
+      "id": 6
+    },
+    {
+      "name": "farhan",
+      "email": "farhan123@gmail.com",
+      "password": "farhan123",
+      "id": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
